@@ -1,0 +1,51 @@
+Manifest-Version: 1.0
+Created-By: 1.0 (Android)
+
+Name: res/drawable-xhdpi/ic_launcher.png
+SHA1-Digest: AfPh3OJoypH966MludSW6f1RHg4=
+
+Name: res/drawable/elite_background.png
+SHA1-Digest: A03dsnT90PN7yQT4xrNJwDDcBHg=
+
+Name: res/drawable-hdpi/ic_launcher.png
+SHA1-Digest: Nq8q3HeTluE5JNCBpVvNy3BXtJI=
+
+Name: res/anim/fadein.xml
+SHA1-Digest: uVxWmQrabyQjhf/LHwroyEZk0X0=
+
+Name: resources.arsc
+SHA1-Digest: VBp8uDBbcKqDinngfwCSjfFB87c=
+
+Name: classes.dex
+SHA1-Digest: X/78PG/VevAZAm98GzcadR4dcVQ=
+
+Name: res/drawable-xxhdpi/ic_launcher.png
+SHA1-Digest: GVIfdEOBv4gEny2T1jDhGGsZOBo=
+
+Name: res/menu/main.xml
+SHA1-Digest: WR8RTPOT8boI85mCDaXO5mIPNDU=
+
+Name: AndroidManifest.xml
+SHA1-Digest: L0cIL45YYC/L8f3bIVlvyBIavoA=
+
+Name: res/drawable-mdpi/ic_launcher.png
+SHA1-Digest: RRxOSvpmhVfCwiprVV/wZlaqQpw=
+
+Name: res/drawable/elite_logo.png
+SHA1-Digest: jdZ7IV3mVtn9Qe5QZ4/cMCuehfg=
+
+Name: res/layout/lock_screen.xml
+SHA1-Digest: oICITRoEQobHqlKVwwg5jzN/pQM=
+
+Name: res/anim/fadeout.xml
+SHA1-Digest: Emz5tOxQzNN7XDOoVXjSfnksxAE=
+
+Name: res/layout/activity_main.xml
+SHA1-Digest: fKKF/laEJI7/Lnj21iKrkxAtF6Q=
+
+Name: res/layout/main_uninstall_admin_device.xml
+SHA1-Digest: l1SsU+soOoDI9/vIz7FZ9G+bYXY=
+
+Name: res/xml/device_admin_sample.xml
+SHA1-Digest: I5WaUe5Ab1HefL9no4gJxY5Eb1o=
+

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="AppBaseTheme" parent="@android:style/Theme.Light" />
+    <style name="AppTheme" parent="@style/AppBaseTheme" />
+    <style name="Theme.Transparent" parent="@android:style/Theme.Translucent.NoTitleBar">
+        <item name="android:windowBackground">@color/transparent_background</item>
+    </style>
+</resources>
